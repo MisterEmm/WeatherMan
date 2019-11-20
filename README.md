@@ -47,7 +47,7 @@ This script accepts a "precipitation probability" parameter from weatherman.py a
 
 *temp.py*
 
-Another standard Pimoroni script, this one takes a "temp" parameter from weatherman.py and displays some scrolling text to display it. It's set to use the Herkules truetype font (in the "fonts" folder) but could use a standard font if you prefer. 
+Another standard Pimoroni script, this one takes a "temp" parameter from weatherman.py and displays it with scrolling text. It's set to use the Herkules truetype font (in the "fonts" folder) but could use a standard font if you prefer. 
 
 ------
 
