@@ -8,9 +8,11 @@ The project write-ups can be found at:
 
 Instructables: 
 
-Hackster: 
+https://www.instructables.com/id/1984-WeatherMan-Pi/
 
-YouTube:
+Full video:
+
+YouTube: https://youtu.be/9aZER9OiExg
 
 Installation & Use
 ------------------
