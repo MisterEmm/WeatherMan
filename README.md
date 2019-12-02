@@ -10,6 +10,10 @@ Instructables:
 
 https://www.instructables.com/id/1984-WeatherMan-Pi/
 
+Hackster:
+
+https://www.hackster.io/martin-mander/1984-weatherman-pi-77fb67
+
 Full video:
 
 YouTube: https://youtu.be/9aZER9OiExg
